@@ -3,12 +3,10 @@
 This repository is dedicated to my journey of learning and practicing data structures and algorithms. As I progress, I will be updating this repository with the concepts I've learned, implementations of various data structures, and solutions to algorithmic problems.
 
 # Contents
-Introduction
-Learning Goals
-Progress
-Resources
-Contributing
-License
+1.Introduction
+2.Learning Goals
+3.Progress
+4.License
 
 # Introduction
 In this repository, I am documenting my daily learning and practice of data structures and algorithms. My aim is to gain a deep understanding of fundamental data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, as well as algorithms like sorting, searching, graph traversal, and dynamic programming.
