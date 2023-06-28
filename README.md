@@ -23,6 +23,7 @@ My main goals for this learning journey include:
 I will update this section regularly to track my progress and highlight the topics I have covered. Here's a summary of my achievements so far:
 
 25 June, 2023: Started learning about Patterns [Loops & Matrix].
+28 June, 2023: Started learning about Arrays.
 
 This section will serve as a journal of my learning journey, enabling me to see my growth over time and providing a reference for others interested in following along.
 

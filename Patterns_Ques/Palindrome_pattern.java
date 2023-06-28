@@ -1,6 +1,7 @@
 package Patterns_Ques;
 
 public class Palindrome_pattern {
+    // PALINDROME PATTERN
     static void palindrome_patt(int num) {
         for (int i = 1; i <=num; i++) {
             
