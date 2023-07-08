@@ -1,6 +1,7 @@
 package Arrays;
 
 public class Trapping_water {
+    //TIME COMPLEXITY - O(n)
     static void trapping_water(int[] height){
         // size of the array
         int n = height.length;
@@ -24,6 +25,8 @@ public class Trapping_water {
         //loop
         for(int i=0;i<n;i++){
             int waterLevel = Math.min(leftMax[i], rightmax[i]);
+            
+            //trapped water = waterLevel - height[i]
             trappedWater +=  waterLevel - height[i];
         }
         System.out.println("Total Trapped Water: "+trappedWater);
