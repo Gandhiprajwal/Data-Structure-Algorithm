@@ -1,7 +1,7 @@
 package Arrays;
 
 public class Trapping_water {
-    //TIME COMPLEXITY - O(n)
+    //TIME COMPLEXITY - O(n )
     static void trapping_water(int[] height){
         // size of the array
         int n = height.length;
