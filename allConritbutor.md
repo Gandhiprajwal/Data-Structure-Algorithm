@@ -18,4 +18,5 @@
 [GitHub](www.github.com/ManishMk1)
 
 [Linkedin](https://www.linkedin.com/in/manish-kumar-899a83252)
+[Instagram](https://www.instagram.com/manish_1902)
 
