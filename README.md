@@ -1,31 +1,20 @@
-# Data Structures and Algorithms
+# Welcome to our Data Structure & Algorithm repository
 
-This repository is dedicated to my journey of learning and practicing data structures and algorithms. As I progress, I will be updating this repository with the concepts I've learned, implementations of various data structures, and solutions to algorithmic problems.
+You can clone it and contribute in the repository as follows:
 
-# Contents
+1. Fork and Clone the Repository
+git clone https://github.com/<your github id>/Contributor-List.git
+2. Contribute in the repository
+3. Add the changes in the staging area
+git add .
+4. Commit the Changes
+git commit -m "<Commit Message>"
+5. Take pull before pushing the contributions to avoid any kind of merge conflicts
+git pull origin master
+6. Push the changes into your respository
+git push origin master 
+7. Create Pull Request and submit
 
-* Introduction
-* Learning Goals
-* Progress 
+## What to Contribute:
 
-# Introduction
-In this repository, I am documenting my daily learning and practice of data structures and algorithms. My aim is to gain a deep understanding of fundamental data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, as well as algorithms like sorting, searching, graph traversal, and dynamic programming.
-
-# Learning Goals
-My main goals for this learning journey include:
-
-* Mastering the fundamental data structures and their operations. <br>
-* Understanding various algorithms and their time and space complexities. <br>
-* Developing problem-solving skills through algorithmic challenges. <br>
-* Applying data structures and algorithms to solve real-world problems efficiently. <br>
-
-# Progress
-I will update this section regularly to track my progress and highlight the topics I have covered. Here's a summary of my achievements so far:
-
-25 June, 2023: Started learning about Patterns [Loops & Matrix].
-28 June, 2023: Started learning about Arrays.
-
-This section will serve as a journal of my learning journey, enabling me to see my growth over time and providing a reference for others interested in following along.
-
-<hr>
-Happy learning and coding!
+You can add the Folder/new-files in the above folders. and In the allContributor.md file, you can add your name, University/organisation and your state of residence. This is the basic flow of the repository
