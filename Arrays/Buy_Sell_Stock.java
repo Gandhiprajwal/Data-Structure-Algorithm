@@ -8,8 +8,8 @@ public class Buy_Sell_Stock {
 
         for(int i=0;i<prices.length;i++){
             if(buyPrice < prices[i]){
-                int profit = prices[i] - buyPrice;
-                maxProfit = Math.max(maxProfit, profit);
+                // int profit = prices[i] - buyPrice;
+                maxProfit = Math.max(maxProfit, prices[i]-buyPrice);
             }else{
                 buyPrice = prices[i]; 
             }
@@ -17,7 +17,8 @@ public class Buy_Sell_Stock {
         return maxProfit;
     }
     public static void main(String[] args) {
-        int price[] = {7,8,5,3,6,4};
+        // int price[] = {7,8,5,3,6,4};
+        int[] price = {7,1,5,3,6,4};                                          
         System.out.println(buy_sell(price));;
     }
 }
