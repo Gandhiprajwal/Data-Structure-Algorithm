@@ -1,3 +1,5 @@
+package Arrays;
+
 //"Order agnostic" is a term used to describe a situation where the arrangement or sequence of items or elements does not matter.
 public class binarySearchOrderAgnostic {
 
