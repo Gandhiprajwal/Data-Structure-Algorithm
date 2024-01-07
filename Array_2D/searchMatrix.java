@@ -1,5 +1,7 @@
 package Array_2D;
 
+import java.util.ArrayList;
+
 public class searchMatrix {
     public static boolean searchMatrix(int arr[][], int key) {
         int row = 0, col = arr[0].length - 1;
