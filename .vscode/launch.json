@@ -1,0 +1,441 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RotatedSorted",
+            "request": "launch",
+            "mainClass": "DivdeandConquer.RotatedSorted",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "DivdeandConquer.QuickSort",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_Matrix",
+            "request": "launch",
+            "mainClass": "Array_2D.Spiral_Matrix",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "diagonalSum",
+            "request": "launch",
+            "mainClass": "Array_2D.diagonalSum",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "initialization",
+            "request": "launch",
+            "mainClass": "Array_2D.initialization",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "searchMatrix",
+            "request": "launch",
+            "mainClass": "Array_2D.searchMatrix",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "Arrays.Binary_Search",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Buy_Sell_Stock",
+            "request": "launch",
+            "mainClass": "Arrays.Buy_Sell_Stock",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "LArgest_Number",
+            "request": "launch",
+            "mainClass": "Arrays.LArgest_Number",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search",
+            "request": "launch",
+            "mainClass": "Arrays.Linear_Search",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Max_Sum",
+            "request": "launch",
+            "mainClass": "Arrays.Max_Sum",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Pairs_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Pairs_Array",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Print_Subarray",
+            "request": "launch",
+            "mainClass": "Arrays.Print_Subarray",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Reverse_Array",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "Arrays.SearchInRotatedSortedArray",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Trapping_water",
+            "request": "launch",
+            "mainClass": "Arrays.Trapping_water",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "binarySearchOrderAgnostic",
+            "request": "launch",
+            "mainClass": "Arrays.binarySearchOrderAgnostic",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "duplicateInteger",
+            "request": "launch",
+            "mainClass": "Arrays.duplicateInteger",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "rotatedTarget",
+            "request": "launch",
+            "mainClass": "Arrays.rotatedTarget",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "triplets",
+            "request": "launch",
+            "mainClass": "Arrays.triplets",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "DivdeandConquer.MergeSort",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "subarraySum",
+            "request": "launch",
+            "mainClass": "LeetCode.subarraySum",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Operations",
+            "request": "launch",
+            "mainClass": "Operations",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly_pattern",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Butterfly_pattern",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Character_pattern",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Character_pattern",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Diamond_Pattern",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Diamond_Pattern",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Downward_triangle",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Downward_triangle",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Floyd_Tirangle",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Floyd_Tirangle",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Half_pyramid",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Half_pyramid",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Half_pyramid_Rotated",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Half_pyramid_Rotated",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Hollow_Rectangle",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Hollow_Rectangle",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Hollow_Rhombus",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Hollow_Rhombus",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Number_pyramid",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Number_pyramid",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_pattern",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Palindrome_pattern",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid_pattern",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Pyramid_pattern",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Right_triangle",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Right_triangle",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Solid_rhombus",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Solid_rhombus",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Zero_One_triangle",
+            "request": "launch",
+            "mainClass": "Patterns_Ques.Zero_One_triangle",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "BinaryString",
+            "request": "launch",
+            "mainClass": "Recursion.BinaryString",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "FindtheOccurence",
+            "request": "launch",
+            "mainClass": "Recursion.FindtheOccurence",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "FriendPairing",
+            "request": "launch",
+            "mainClass": "Recursion.FriendPairing",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "LengthofString",
+            "request": "launch",
+            "mainClass": "Recursion.LengthofString",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "NumbertoString",
+            "request": "launch",
+            "mainClass": "Recursion.NumbertoString",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Recursion.Power",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "SortedArray",
+            "request": "launch",
+            "mainClass": "Recursion.SortedArray",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "TilingProblem",
+            "request": "launch",
+            "mainClass": "Recursion.TilingProblem",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "TowerofHanoi",
+            "request": "launch",
+            "mainClass": "Recursion.TowerofHanoi",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "calcSum",
+            "request": "launch",
+            "mainClass": "Recursion.calcSum",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "decreasingNUmber",
+            "request": "launch",
+            "mainClass": "Recursion.decreasingNUmber",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Recursion.factorial",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "fibbonacciSeries",
+            "request": "launch",
+            "mainClass": "Recursion.fibbonacciSeries",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "firstOcuurence",
+            "request": "launch",
+            "mainClass": "Recursion.firstOcuurence",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "increasingOrder",
+            "request": "launch",
+            "mainClass": "Recursion.increasingOrder",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicate",
+            "request": "launch",
+            "mainClass": "Recursion.removeDuplicate",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Algorithms",
+            "request": "launch",
+            "mainClass": "Sorting.Sorting_Algorithms",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "countSetBits",
+            "request": "launch",
+            "mainClass": "countSetBits",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "fastExpo",
+            "request": "launch",
+            "mainClass": "fastExpo",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "isPowerTwo",
+            "request": "launch",
+            "mainClass": "isPowerTwo",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "oddEven",
+            "request": "launch",
+            "mainClass": "oddEven",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "squareNumber",
+            "request": "launch",
+            "mainClass": "squareNumber",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "DSA_59b0b0ea"
+        }
+    ]
+}
