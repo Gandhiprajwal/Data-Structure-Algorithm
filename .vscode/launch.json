@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InversionCount",
+            "request": "launch",
+            "mainClass": "DivdeandConquer.InversionCount",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElements",
+            "request": "launch",
+            "mainClass": "DivdeandConquer.MajorityElements",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortonString",
+            "request": "launch",
+            "mainClass": "DivdeandConquer.MergeSortonString",
+            "projectName": "DSA_59b0b0ea"
+        },
+        {
+            "type": "java",
             "name": "RotatedSorted",
             "request": "launch",
             "mainClass": "DivdeandConquer.RotatedSorted",
